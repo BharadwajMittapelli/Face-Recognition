@@ -320,3 +320,5 @@ Licensed under the **Apache License, Version 2.0** — see [License.txt](License
 - [JAMA](https://math.nist.gov/javanumerics/jama/) for numerical linear algebra.
 - [Spring Boot](https://spring.io/projects/spring-boot), [picocli](https://picocli.info/), [Micrometer](https://micrometer.io/), [Bucket4j](https://bucket4j.com/), [springdoc-openapi](https://springdoc.org/).
 - Maintainer: **[Prasad Subrahmanya](https://github.com/prasadus92)** · prasadus92@gmail.com
+#   F a c e - R e c o g n i t i o n  
+ 
